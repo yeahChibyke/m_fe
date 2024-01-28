@@ -10,7 +10,7 @@
 .hero {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(to right, rgba(196, 231, 240, 0.39), rgba(216, 223, 226, 0.534));
+    background-image: linear-gradient(to right, rgba(177, 243, 234, 0.790), rgba(177, 243, 234, 0.790));
     background-position: center;
     background-size: cover;
     overflow-x: hidden;
